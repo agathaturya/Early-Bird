@@ -1,0 +1,439 @@
+#user-style-jack {
+    
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #990000;
+  }
+
+  .u-textUserColor,
+  .u-textUserColorHover:hover,
+  .u-textUserColorHover:hover .ProfileTweet-actionCount,
+  .u-textUserColorHover:focus {
+    color: #990000 !important;
+  }
+
+  .u-borderUserColor,
+  .u-borderUserColorHover:hover,
+  .u-borderUserColorHover:focus {
+    border-color: #990000 !important;
+  }
+
+  .u-bgUserColor,
+  .u-bgUserColorHover:hover,
+  .u-bgUserColorHover:focus {
+    background-color: #990000 !important;
+  }
+
+  .u-dropdownUserColor > li:hover,
+  .u-dropdownUserColor > li:focus,
+  .u-dropdownUserColor > li > button:hover,
+  .u-dropdownUserColor > li > button:focus {
+    color: #fff !important;
+    background-color: #990000 !important;
+  }
+
+  .u-boxShadowInsetUserColorHover:hover,
+  .u-boxShadowInsetUserColorHover:focus {
+    box-shadow: inset 0 0 0 5px #990000 !important;
+  }
+
+  .u-dropdownOpenUserColor.dropdown.open .dropdown-toggle {
+    color: #990000;
+  }
+
+
+
+  .u-textUserColorLight {
+    color: #D69999 !important;
+  }
+
+  .u-borderUserColorLight,
+  .u-borderUserColorLightFocus:focus,
+  .u-borderUserColorLightHover:hover,
+  .u-borderUserColorLightHover:focus {
+    border-color: #D69999 !important;
+  }
+
+  .u-bgUserColorLight {
+    background-color: #D69999 !important;
+  }
+
+
+  .u-boxShadowUserColorLighterFocus:focus {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(153,0,0,0.25) !important;
+  }
+
+
+  .u-textUserColorLightest {
+    color: #F4E5E5 !important;
+  }
+
+  .u-borderUserColorLightest {
+    border-color: #F4E5E5 !important;
+  }
+
+  .u-bgUserColorLightest {
+    background-color: #F4E5E5 !important;
+  }
+
+
+  .u-textUserColorLighter {
+    color: #E5BFBF !important;
+  }
+
+  .u-borderUserColorLighter {
+    border-color: #E5BFBF !important;
+  }
+
+  .u-bgUserColorLighter {
+    background-color: #E5BFBF !important;
+  }
+
+
+  .u-bgUserColorDarkHover:hover {
+    background-color: #7A0000 !important;
+  }
+
+  .u-borderUserColorDark {
+    border-color: #7A0000 !important;
+  }
+
+
+  .u-bgUserColorDarkerActive:active {
+    background-color: #5B0000 !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a,
+.btn-link,
+.btn-link:focus,
+.icon-btn,
+
+
+
+.pretty-link b,
+.pretty-link:hover s,
+.pretty-link:hover b,
+.pretty-link:focus s,
+.pretty-link:focus b,
+
+.metadata a:hover,
+.metadata a:focus,
+
+a.account-group:hover .fullname,
+a.account-group:focus .fullname,
+.account-summary:focus .fullname,
+
+.message .message-text a,
+.message .message-text button,
+.stats a strong,
+.plain-btn:hover,
+.plain-btn:focus,
+.dropdown.open .user-dropdown.plain-btn,
+.open > .plain-btn,
+#global-actions .new:before,
+.module .list-link:hover,
+.module .list-link:focus,
+
+.stats a:hover,
+.stats a:hover strong,
+.stats a:focus,
+.stats a:focus strong,
+
+.find-friends-sources li:hover .source,
+
+
+
+
+
+.stream-item a:hover .fullname,
+.stream-item a:focus .fullname,
+
+.stream-item .view-all-supplements:hover,
+.stream-item .view-all-supplements:focus,
+
+.tweet .time a:hover,
+.tweet .time a:focus,
+.tweet .details.with-icn b,
+.tweet .details.with-icn .Icon,
+
+.stream-item:hover .original-tweet .details b,
+.stream-item .original-tweet.focus .details b,
+.stream-item.open .original-tweet .details b,
+
+.client-and-actions a:hover,
+.client-and-actions a:focus,
+
+.dismiss-btn:hover b,
+
+.tweet .context .pretty-link:hover s,
+.tweet .context .pretty-link:hover b,
+.tweet .context .pretty-link:focus s,
+.tweet .context .pretty-link:focus b,
+
+.list .username a:hover,
+.list .username a:focus,
+.list-membership-container .create-a-list,
+.list-membership-container .create-a-list:hover,
+
+
+
+.card .list-details a:hover,
+.card .list-details a:focus,
+.card .card-body:hover .attribution,
+.card .card-body .attribution:focus,
+.new-tweets-bar,
+
+
+
+.remove-background-btn {
+    color: #990000;
+}
+
+
+
+    #global-actions > li > a {
+      border-bottom-color: #990000;
+    }
+
+    #global-actions > li:hover > a,
+    #global-actions > li > a:focus,
+    .nav.right-actions > li > a:hover,
+    .nav.right-actions > li > button:hover,
+    .nav.right-actions > li > a:focus,
+    .nav.right-actions > li > button:focus {
+      color: #990000;
+    }
+
+
+  
+  .FoundMediaSearch--keyboard .FoundMediaSearch-focusable.is-focused {
+    border-color: #990000;
+  }
+
+  
+  .photo-selector:hover .btn,
+  .icon-btn:hover,
+  .icon-btn:active,
+  .icon-btn.active,
+  .icon-btn.enabled {
+    border-color: #990000;
+    border-color: rgba(153,0,0,.5);
+    color: #990000;
+  }
+
+  
+  .photo-selector:hover .btn,
+  .icon-btn:hover {
+    background-image: linear-gradient(rgba(255,255,255,0), rgba(153,0,0,.1));
+  }
+
+  .icon-btn.disabled,
+  .icon-btn.disabled:hover,
+  .icon-btn[disabled],
+  .icon-btn[aria-disabled=true] {
+    color: #990000;
+  }
+
+  
+  .tweet-btn,
+  .tweet-btn:focus {
+    background-color: #990000;
+    background: rgba(153,0,0,.8);
+  }
+
+  .tweet-btn:hover,
+  .tweet-btn:active,
+  .tweet-btn.active {
+    background-color: #990000;
+  }
+
+  .tweet-btn.btn.disabled,
+  .tweet-btn.btn.disabled:hover,
+  .tweet-btn.btn[disabled],
+  .tweet-btn.btn[aria-disabled=true] {
+    background: #990000;
+  }
+
+  .btn:focus,
+  .btn.focus,
+  .Button:focus,
+  .EmojiPicker-item.is-focused,
+  .EmojiPicker .EmojiCategoryIcon:focus,
+  .EmojiPicker-skinTone:focus + .EmojiPicker-skinToneSwatch,
+  a:focus > img:first-child:last-child,
+  button:focus {
+    box-shadow:
+      0 0 0 2px #fff,
+      0 0 2px 4px rgba(153, 0, 0, 0.5);
+  }
+
+  .selected-stream-item:focus {
+    box-shadow: 0 0 0 3px rgba(153, 0, 0, 0.5);
+  }
+
+  
+  .js-navigable-stream.stream-table-view .selected-stream-item[tabindex="-1"]:focus {
+    outline: 3px solid rgba(153, 0, 0, 0.5) !important;
+  }
+
+  
+  .js-navigable-stream.stream-table-view .selected-stream-item:focus {
+    box-shadow: none;
+  }
+
+  
+
+  .global-dm-nav.new.with-count .dm-new {
+    background: #fff;
+  }
+
+  .global-dm-nav.new.with-count .dm-new .count-inner {
+    background: #990000;
+  }
+
+  .global-nav .people .count .count-inner {
+    background: #990000;
+  }
+
+  .dropdown-menu li > a:hover,
+  .dropdown-menu li > a:focus,
+  .dropdown-menu .dropdown-link:hover,
+  .dropdown-menu .dropdown-link:focus,
+  .dropdown-menu .dropdown-link.is-focused,
+  .dropdown-menu li:hover .dropdown-link,
+  .dropdown-menu li:focus .dropdown-link,
+  .dropdown-menu .typeahead-recent-search-item.selected,
+  .dropdown-menu .typeahead-saved-search-item.selected,
+  .dropdown-menu .selected a,
+  .dropdown-menu .dropdown-link.selected {
+    background-color: #990000 !important;
+  }
+
+
+.home-tweet-box,
+.LiveVideo-tweetBox,
+.RetweetDialog-commentBox,
+.WebToast-box--altColor {
+  background-color: #F4E5E5;
+}
+
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+  color: #990000;
+}
+
+.RichEditor,
+.TweetBoxAttachments {
+  border-color: #E5BFBF;
+}
+
+input:focus,
+textarea:focus,
+div[contenteditable="true"]:focus,
+div[contenteditable="true"].fake-focus,
+div[contenteditable="plaintext-only"]:focus,
+div[contenteditable="plaintext-only"].fake-focus {
+  border-color: #C16666;
+  box-shadow: inset 0 0 0 1px rgba(153, 0, 0, 0.7);
+}
+
+.tweet-box textarea:focus,
+.tweet-box input[type=text],
+.currently-dragging .tweet-form.is-droppable .tweet-drag-help,
+.tweet-box[contenteditable="true"]:focus,
+.RichEditor.is-fakeFocus,
+.RichEditor.is-fakeFocus ~ .TweetBoxAttachments {
+  border-color: #D69999;
+  box-shadow: none;
+}
+
+.MomentCapsuleItem.selected-stream-item:focus {
+  box-shadow: 0 0 0 3px rgba(153, 0, 0, 0.5);
+}
+
+
+
+
+s,
+.pretty-link:hover s,
+.pretty-link:focus s,
+.stream-item-activity-notification .latest-tweet .tweet-row a:hover s,
+.stream-item-activity-notification .latest-tweet .tweet-row a:focus s {
+    color: #990000;
+}
+
+
+
+.vellip,
+.vellip:before,
+.vellip:after,
+.conversation-module > li:after,
+.conversation-module > li:before,
+.ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before,
+.ThreadedConversation-tweet:after,
+.ThreadedConversation-moreReplies:before,
+.ThreadedConversation-viewOther:before,
+.ThreadedConversation-unavailableTweet:before,
+.ThreadedConversation-unavailableTweet:after,
+.ThreadedConversation--permalinkTweetWithAncestors:before {
+    border-color: #C16666;
+}
+
+
+
+
+.tweet .sm-reply,
+.tweet .sm-rt,
+.tweet .sm-fav,
+.tweet .sm-image,
+.tweet .sm-video,
+.tweet .sm-audio,
+.tweet .sm-geo,
+.tweet .sm-in,
+.tweet .sm-trash,
+.tweet .sm-more,
+.tweet .sm-page,
+.tweet .sm-embed,
+.tweet .sm-summary,
+.tweet .sm-chat,
+
+.timelines-navigation .active .profile-nav-icon,
+.timelines-navigation .profile-nav-icon:hover,
+.timelines-navigation .profile-nav-link:focus .profile-nav-icon,
+
+.sm-top-tweet {
+    background-color: #990000;
+}
+
+.enhanced-mini-profile .mini-profile .profile-summary {
+  background-image: url(https://pbs.twimg.com/profile_banners/12/1483046077/mobile);
+}
+
+  #global-tweet-dialog .modal-header {
+    border-bottom: solid 1px rgba(153, 0, 0, .25);
+  }
+
+  #global-tweet-dialog .modal-tweet-form-container {
+    background-color: #990000;
+    background: rgba(153, 0, 0, .1);
+  }
+
+  .inline-reply-tweetbox {
+    background-color: #F4E5E5;
+  }
+
+}
