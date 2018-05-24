@@ -777,12 +777,16 @@ $.ajax({
                 </a>
             </li>
 
-            <li class="ProfileHeading-toggleItem  u-textUserColor" data-element-term="photos_and_videos_toggle">
-                <a class="ProfileHeading-toggleLink js-nav" href="http://localhost:3000/db" data-nav="photos_and_videos_toggle">
+            <li class="ProfileHeading-toggleItem  u-textUserColor" data-element-term="archived_tweets_toggle" id="archivedLink">
+                <a class="ProfileHeading-toggleLink js-nav" href="http://localhost:3000/db" data-nav="archived_tweets_toggle">
                   Archived Tweets
                   <script language=javascript>
                   //get info of tweets
-                  //stylize it
+                  var link = document.getElementById('archivedLink');
+
+                  archivedLink.addEventListener('click', function() {
+                     alert("the link was clicked!!!");
+                   });
 
                   </script>
                 </a>
