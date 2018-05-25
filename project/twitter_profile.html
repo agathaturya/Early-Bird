@@ -33,7 +33,7 @@
   <link rel="canonical" href="https://twitter.com/jack">
 
   <link rel="search" type="application/opensearchdescription+xml" href="https://twitter.com/opensearch.xml" title="Twitter">
-
+  <link rel="stylesheet" href="extra.css">
       <script type="text/javascript" charset="utf-8" async="" src="./twitter_profile_files/17.commons.en.02cc7034ec3c00f10d04.js"></script>
       <script type="text/javascript" charset="utf-8" async="" src="./twitter_profile_files/8.pages_home.en.80196d085a907c892d99.js"></script>
       <style type="text/css" id="hidden-dms"></style>
@@ -1936,17 +1936,31 @@ $.ajax({
 
 </li>
 
-      <li class="js-stream-item stream-item stream-item
-" data-item-id="861975686499532800" id="stream-item-tweet-861975686499532800" data-item-type="tweet" data-suggestion-json="{&quot;suggestion_details&quot;:{},&quot;tweet_ids&quot;:&quot;861975686499532800&quot;,&quot;scribe_component&quot;:&quot;tweet&quot;}">
+<script type ="text/javascript">
+clicked = true;
+$(document).ready(function(){
+  $("button").click(function(){
+  if(clicked){
+    $(this).css('color','orange');
+    clicked = false;
+  } else {
+    $(this).css('color', 'grey');
+    clicked = true;
+  }
+   });
+});
+
+</script>
+
+
+
+      <li class="js-stream-item stream-item stream-item" data-item-id="861975686499532800" id="stream-item-tweet-861975686499532800" data-item-type="tweet" data-suggestion-json="{&quot;suggestion_details&quot;:{},&quot;tweet_ids&quot;:&quot;861975686499532800&quot;,&quot;scribe_component&quot;:&quot;tweet&quot;}">
 
 
 
 
   <div class="tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable dismissible-content
-       original-tweet js-original-tweet
-
-
-" data-tweet-id="861975686499532800" data-item-id="861975686499532800" data-permalink-path="/jack/status/861975686499532800" data-conversation-id="861975686499532800" data-tweet-nonce="861975686499532800-469fa95f-6715-420d-98c8-51dc9e82ea8c" data-tweet-stat-initialized="true" data-screen-name="jack" data-name="jack" data-user-id="12" data-you-follow="true" data-follows-you="false" data-you-block="false" data-reply-to-users-json="[{&quot;id_str&quot;:&quot;12&quot;,&quot;screen_name&quot;:&quot;jack&quot;,&quot;name&quot;:&quot;jack&quot;,&quot;emojified_name&quot;:{&quot;text&quot;:&quot;jack&quot;,&quot;emojified_text_as_html&quot;:&quot;jack&quot;}}]" data-disclosure-type="">
+       original-tweet js-original-tweet" data-tweet-id="861975686499532800" data-item-id="861975686499532800" data-permalink-path="/jack/status/861975686499532800" data-conversation-id="861975686499532800" data-tweet-nonce="861975686499532800-469fa95f-6715-420d-98c8-51dc9e82ea8c" data-tweet-stat-initialized="true" data-screen-name="jack" data-name="jack" data-user-id="12" data-you-follow="true" data-follows-you="false" data-you-block="false" data-reply-to-users-json="[{&quot;id_str&quot;:&quot;12&quot;,&quot;screen_name&quot;:&quot;jack&quot;,&quot;name&quot;:&quot;jack&quot;,&quot;emojified_name&quot;:{&quot;text&quot;:&quot;jack&quot;,&quot;emojified_text_as_html&quot;:&quot;jack&quot;}}]" data-disclosure-type="">
 
     <div class="context">
 
